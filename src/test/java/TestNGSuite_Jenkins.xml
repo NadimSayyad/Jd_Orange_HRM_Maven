@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	<test name="Test">
+		<classes>
+			<!-- <class name="com.OrangeHRM.DragAndDropExample" /> -->
+			<class name="com.OrangeHRM.NetBankingHDFC_Alert_Testing_Login" />
+			<class name="com.OrangeHRM.NetBankingHDFC_Test" />
+			<!-- <class name="com.OrangeHRM.Orage_HRM_Login_Parameters" /> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

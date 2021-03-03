@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="classes" name="Suite" thread-count="2">
+	<listeners>
+		<listener class-name="com.extentReport.Listeners" />
+	</listeners>
+	<test name="Test">
+		<classes>
+			<class		
+				name="com.SingleExtentReport_Example.Proxy_Examaple" />
+			<class
+				name="com.SingleExtentReport_Example.OrangeHRMLogin_TestNG" />
+			<!-- <class name="com.OrangeHRM.Orage_HRM_Login_Parameters" /> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
